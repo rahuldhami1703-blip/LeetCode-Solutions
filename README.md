@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
