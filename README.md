@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0443-string-compression](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
