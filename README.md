@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
