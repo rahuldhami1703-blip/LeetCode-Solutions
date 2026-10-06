@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
