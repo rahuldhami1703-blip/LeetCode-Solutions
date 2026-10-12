@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
