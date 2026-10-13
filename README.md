@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,4 +152,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
