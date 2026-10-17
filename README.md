@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
