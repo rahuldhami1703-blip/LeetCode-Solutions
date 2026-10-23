@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
