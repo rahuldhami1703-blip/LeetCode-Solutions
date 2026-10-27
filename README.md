@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
