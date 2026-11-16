@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rahuldhami1703-blip/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
